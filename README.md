@@ -1,0 +1,3 @@
+- Run scripts
+- Change the connection string in DAL/DataProvider
+- Run the program
